@@ -1,5 +1,5 @@
 # ETC_cSharp_
 
-    This repo is created t share c# course material.
+    This repo is created to share c# course material.
 
     Happy coding!
