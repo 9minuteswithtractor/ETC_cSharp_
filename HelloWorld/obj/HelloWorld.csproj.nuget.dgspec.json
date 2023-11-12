@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\root_9mwt\\Documents\\STUDIJAS\\01_cSharp_algorithms_fundOfProgramming\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\root_9mwt\\Documents\\STUDIJAS\\01_cSharp_algorithms_fundOfProgramming\\cSharp\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\root_9mwt\\Documents\\STUDIJAS\\01_cSharp_algorithms_fundOfProgramming\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\root_9mwt\\Documents\\STUDIJAS\\01_cSharp_algorithms_fundOfProgramming\\cSharp\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\root_9mwt\\Documents\\STUDIJAS\\01_cSharp_algorithms_fundOfProgramming\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\root_9mwt\\Documents\\STUDIJAS\\01_cSharp_algorithms_fundOfProgramming\\cSharp\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\root_9mwt\\Documents\\STUDIJAS\\01_cSharp_algorithms_fundOfProgramming\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\root_9mwt\\Documents\\STUDIJAS\\01_cSharp_algorithms_fundOfProgramming\\cSharp\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\root_9mwt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\root_9mwt\\Documents\\STUDIJAS\\01_cSharp_algorithms_fundOfProgramming\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\root_9mwt\\Documents\\STUDIJAS\\01_cSharp_algorithms_fundOfProgramming\\cSharp\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root_9mwt\\AppData\\Roaming\\NuGet\\NuGet.Config",
