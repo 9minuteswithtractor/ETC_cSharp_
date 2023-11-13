@@ -1,2 +1,3 @@
+## 02_Session
 
-[preview](2_session_subjects.PNG)
+![app-preview](./2_session_subjects.PNG)
