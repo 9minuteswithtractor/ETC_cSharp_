@@ -194,7 +194,7 @@ namespace DataTpypes
             {
 
                 DateTime now = DateTime.Now;
-                Console.WriteLine("Now is {0}", now);
+                Console.WriteLine("Now is {0}", now.ToString("ddd dd MMM HH:mm"));
                 Console.WriteLine("The data type of DateTime variable is : {0}", now.GetType());
 
 
