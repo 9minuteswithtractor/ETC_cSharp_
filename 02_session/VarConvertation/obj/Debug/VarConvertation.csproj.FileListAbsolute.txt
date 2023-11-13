@@ -1,7 +1,7 @@
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\VarConvertation\obj\Debug\VarConvertation.csproj.AssemblyReference.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\VarConvertation\obj\Debug\VarConvertation.csproj.CoreCompileInputs.cache
 C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\VarConvertation\bin\Debug\VarConvertation.exe.config
 C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\VarConvertation\bin\Debug\VarConvertation.exe
 C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\VarConvertation\bin\Debug\VarConvertation.pdb
-C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\VarConvertation\obj\Debug\VarConvertation.csproj.AssemblyReference.cache
-C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\VarConvertation\obj\Debug\VarConvertation.csproj.CoreCompileInputs.cache
 C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\VarConvertation\obj\Debug\VarConvertation.exe
 C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\VarConvertation\obj\Debug\VarConvertation.pdb
