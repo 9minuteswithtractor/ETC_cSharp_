@@ -1,0 +1,7 @@
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\SwitchCondition\bin\Debug\SwitchCondition.exe.config
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\SwitchCondition\bin\Debug\SwitchCondition.exe
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\SwitchCondition\bin\Debug\SwitchCondition.pdb
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\SwitchCondition\obj\Debug\SwitchCondition.csproj.AssemblyReference.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\SwitchCondition\obj\Debug\SwitchCondition.csproj.CoreCompileInputs.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\SwitchCondition\obj\Debug\SwitchCondition.exe
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\SwitchCondition\obj\Debug\SwitchCondition.pdb

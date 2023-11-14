@@ -1,0 +1,7 @@
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\IfElseConditional\bin\Debug\IfElseConditional.exe.config
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\IfElseConditional\bin\Debug\IfElseConditional.exe
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\IfElseConditional\bin\Debug\IfElseConditional.pdb
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\IfElseConditional\obj\Debug\IfElseConditional.csproj.AssemblyReference.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\IfElseConditional\obj\Debug\IfElseConditional.csproj.CoreCompileInputs.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\IfElseConditional\obj\Debug\IfElseConditional.exe
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\02_session\IfElseConditional\obj\Debug\IfElseConditional.pdb
