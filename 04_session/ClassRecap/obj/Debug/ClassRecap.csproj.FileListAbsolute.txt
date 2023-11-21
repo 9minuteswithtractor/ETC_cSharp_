@@ -1,0 +1,7 @@
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\ClassRecap\bin\Debug\ClassRecap.exe.config
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\ClassRecap\bin\Debug\ClassRecap.exe
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\ClassRecap\bin\Debug\ClassRecap.pdb
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\ClassRecap\obj\Debug\ClassRecap.csproj.AssemblyReference.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\ClassRecap\obj\Debug\ClassRecap.csproj.CoreCompileInputs.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\ClassRecap\obj\Debug\ClassRecap.exe
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\ClassRecap\obj\Debug\ClassRecap.pdb
