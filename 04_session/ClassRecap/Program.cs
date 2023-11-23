@@ -60,7 +60,7 @@ namespace ClassRecap
 
                 Gender = 'M',
 
-                HasLicense = true,
+                HasLicense = true,  
 
                 myNewCar = CreateNewCar(car)
 

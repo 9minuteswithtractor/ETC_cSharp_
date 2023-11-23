@@ -1,0 +1,10 @@
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Inheritence\bin\Debug\Inheritence.exe.config
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Inheritence\bin\Debug\Inheritence.exe
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Inheritence\bin\Debug\Inheritence.pdb
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Inheritence\obj\Debug\Inheritence.csproj.AssemblyReference.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Inheritence\obj\Debug\Inheritence.MainForm.resources
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Inheritence\obj\Debug\Inheritence.Properties.Resources.resources
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Inheritence\obj\Debug\Inheritence.csproj.GenerateResource.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Inheritence\obj\Debug\Inheritence.exe
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Inheritence\obj\Debug\Inheritence.pdb

@@ -1,0 +1,10 @@
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Loop\bin\Debug\Loop.exe.config
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Loop\bin\Debug\Loop.exe
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Loop\bin\Debug\Loop.pdb
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Loop\obj\Debug\Loop.csproj.AssemblyReference.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Loop\obj\Debug\Loop.MainForm.resources
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Loop\obj\Debug\Loop.Properties.Resources.resources
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Loop\obj\Debug\Loop.csproj.GenerateResource.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Loop\obj\Debug\Loop.exe
+C:\Users\root_9mwt\Documents\STUDIJAS\01_cSharp_algorithms_fundOfProgramming\cSharp\04_session\Loop\obj\Debug\Loop.pdb
